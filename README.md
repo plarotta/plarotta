@@ -8,4 +8,5 @@ I'm Pedro, and I'm a Master's student at Columbia working at the intersection of
     - Training a model to predict the joint configuration of a robot arm from vision alone
     - *attempting* to learn a policy for navigating mazes from just the first person view of the agent
     - My first attempt at a pipeline for meta learning to train EMG models capable of quickly adapting to new patients (context: https://roam.me.columbia.edu/research-projects/hand-orthosis-stroke-rehabilitation)
+    - Transfer learning for image classification (ResNets and Vision Transformers)
 - ✍️ Let me know if you have any questions about my repos or are interested in collaboration
