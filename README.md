@@ -6,7 +6,7 @@ I'm Pedro, and I'm a Master's student at Columbia working at the intersection of
     - Learning the basics of genetic programming through the Traveling Salesman Problem
     - Training a model to predict the joint configuration of a robot arm from vision alone
     - *attempting* to learn a policy for navigating mazes from just the first person view of the agent
-    - My first attempt at a pipeline for meta learning to train EMG models capable of quickly adapting to new patients (context: https://roam.me.columbia.edu/research-projects/hand-orthosis-stroke-rehabilitation)
+    - Meta learning to train EMG models capable of quickly adapting to new patients (preprint here: https://arxiv.org/abs/2403.13147)
     - Basics of transfer learning with image classification (ResNets and Vision Transformers)
 - ✍️ How to reach me: plarottaone2@gmail.com
 - LinkedIn: https://www.linkedin.com/in/plarotta/
